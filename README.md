@@ -1,2 +1,3 @@
 # Demo
-This is demo version for a beginner like
+This is demo version for a beginner like me
+Fundamentals are important
